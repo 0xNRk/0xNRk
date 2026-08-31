@@ -14,7 +14,7 @@
 
 ```yml
 intro:
-  name: Narendra Dubey
+  name: Narendra Dubey [0xNRk]
   from: Utter Pradesh (India)
   linkedin: https://www.linkedin.com/in/im-naren
   blog:
